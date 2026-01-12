@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+ .odds.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightpink;
+ }
+
+  .odds#different {
+    font-size: 40px;
+    background-color: lightpink;
+ }
+
+ .numbatwo{
+    color: blue;
+    font-size: 40px;
+    font-weight: 100px;
+ }
+
+ .numbafour{
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: bold;
+ }
+
+ 
